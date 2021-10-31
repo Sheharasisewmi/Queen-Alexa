@@ -42,7 +42,7 @@ WhatsApp Bot
 - Owner number [Here](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/settings.json#L4)
 - Owner Name [Here](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/settings.json#L14)
 - Bot Name [Here](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/settings.json#L15)
-
+==
 ## `CHANGE DYNO`
 
 Off in web ny | ඔෆ් කරන්න web එක | turn off web button.
